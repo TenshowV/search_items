@@ -1,0 +1,20 @@
+@import url('@/assets/fonts/fonts.css');
+@import 'tailwindcss';
+
+@theme {
+  --font-inter: 'Inter';
+
+  --color-black-05: #f1f1f1; /*Основной цвет фона*/
+  --color-black-20: #d7d7d7; /*Цвет рамки*/
+  --color-black-40: #9b9b9b; /*Цвет текста*/
+  --color-black-60: #777777; /*Цвет круга*/
+  --color-black-80: #494949; /*Цвет фона карточки*/
+  --color-black-100: #0a0a0a; /*Цвет заголовка*/
+
+  --radius-card: 1.25rem; /*20px*/
+
+  --spacing-39.25: 9.813rem; /*157px*/
+  --spacing-54.25: 13.563rem; /*217px*/
+
+  --text-tiny: 0.625rem; /*10px*/
+}
